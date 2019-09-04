@@ -8,5 +8,10 @@ namespace GitTest
 {
     class Cliente
     {
+
+        public Cliente()
+        {
+
+        }
     }
 }
